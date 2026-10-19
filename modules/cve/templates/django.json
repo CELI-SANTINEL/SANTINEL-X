@@ -1,0 +1,21 @@
+{
+  "cve_id": "CVE-2022-28346",
+  "name": "Django SQL Injection",
+  "severity": "critical",
+  "cvss_score": 9.8,
+  "affected_product": "Django",
+  "affected_versions": ["2.2.0-2.2.28", "3.2.0-3.2.13", "4.0.0-4.0.4"],
+  "detection": {
+    "type": "passive",
+    "method": "header_check",
+    "indicators": {
+      "headers": {
+        "Set-Cookie": "csrftoken"
+      }
+    }
+  },
+  "description": "Django QuerySet.annotate/aggregate/extra SQL injection.",
+  "remediation": "Update to Django 2.2.29, 3.2.14, 4.0.5, or later",
+  "references": ["https://nvd.nist.gov/vuln/detail/CVE-2022-28346"],
+  "legal_note": "Passive detection only - no exploit payload"
+}

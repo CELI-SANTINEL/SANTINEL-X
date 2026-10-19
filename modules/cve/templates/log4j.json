@@ -1,0 +1,21 @@
+{
+  "cve_id": "CVE-2021-44228",
+  "name": "Log4Shell - Apache Log4j RCE",
+  "severity": "critical",
+  "cvss_score": 10.0,
+  "affected_product": "Apache Log4j",
+  "affected_versions": ["2.0.0-2.14.1"],
+  "detection": {
+    "type": "passive",
+    "method": "header_check",
+    "indicators": {
+      "headers": {
+        "Server": ".*[Ll]og4j.*"
+      }
+    }
+  },
+  "description": "Apache Log4j2 JNDI features RCE (Log4Shell).",
+  "remediation": "Update to Log4j 2.17.1 or later",
+  "references": ["https://nvd.nist.gov/vuln/detail/CVE-2021-44228"],
+  "legal_note": "Passive detection only - no exploit payload"
+}

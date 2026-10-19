@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+venv/
+.venv/
+
+# API Keys - JANGAN COMMIT!
+.env
+.env.*
+*.env
+
+# Scan results
+hasil_exploit/
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store

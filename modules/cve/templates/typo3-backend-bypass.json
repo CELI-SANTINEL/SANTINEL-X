@@ -1,0 +1,22 @@
+{
+  "cve_id": "CVE-2020-11069",
+  "name": "TYPO3 CMS Backend Cross-Site Request Forgery",
+  "severity": "high",
+  "cvss_score": 8.8,
+  "affected_product": "TYPO3",
+  "affected_versions": ["9.0.0-9.5.18", "10.0.0-10.4.4"],
+  "detection": {
+    "type": "passive",
+    "method": "version_meta",
+    "indicators": {
+      "html": {
+        "typo3-meta": "TYPO3 CMS[\\s\\S]{0,200}?(\\d+\\.\\d+\\.\\d+)",
+        "typo3-generator": "content=\"TYPO3"
+      }
+    }
+  },
+  "description": "TYPO3 CMS backend is susceptible to cross-site request forgery in specific administrative features.",
+  "remediation": "Upgrade to TYPO3 9.5.19 / 10.4.5 or later.",
+  "references": ["https://nvd.nist.gov/vuln/detail/CVE-2020-11069"],
+  "legal_note": "Passive detection only - no exploit payload"
+}

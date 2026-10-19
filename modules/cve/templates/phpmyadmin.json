@@ -1,0 +1,21 @@
+{
+  "cve_id": "CVE-2018-12613",
+  "name": "phpMyAdmin Local File Inclusion",
+  "severity": "critical",
+  "cvss_score": 8.8,
+  "affected_product": "phpMyAdmin",
+  "affected_versions": ["4.8.0-4.8.1"],
+  "detection": {
+    "type": "passive",
+    "method": "static_file",
+    "indicators": {
+      "html": {
+        "script_src": "phpmyadmin[^0-9]*([0-9]+\\.[0-9]+\\.[0-9]+)"
+      }
+    }
+  },
+  "description": "phpMyAdmin LFI via index.php target parameter.",
+  "remediation": "Update to phpMyAdmin 4.8.2 or later",
+  "references": ["https://nvd.nist.gov/vuln/detail/CVE-2018-12613"],
+  "legal_note": "Passive detection only - no exploit payload"
+}

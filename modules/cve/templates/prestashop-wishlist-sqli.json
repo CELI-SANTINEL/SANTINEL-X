@@ -1,0 +1,22 @@
+{
+  "cve_id": "CVE-2022-31101",
+  "name": "PrestaShop blockwishlist SQL Injection",
+  "severity": "critical",
+  "cvss_score": 9.8,
+  "affected_product": "PrestaShop",
+  "affected_versions": ["1.7.0-1.7.8"],
+  "detection": {
+    "type": "passive",
+    "method": "version_meta",
+    "indicators": {
+      "html": {
+        "prestashop-meta": "PrestaShop[\\s\\S]{0,200}?(\\d+\\.\\d+\\.\\d+)",
+        "prestashop-generator": "content=\"PrestaShop\""
+      }
+    }
+  },
+  "description": "PrestaShop blockwishlist module SQL injection vulnerability in the front-office wishlist management.",
+  "remediation": "Upgrade blockwishlist module to version 2.1.1 or later.",
+  "references": ["https://nvd.nist.gov/vuln/detail/CVE-2022-31101"],
+  "legal_note": "Passive detection only - no exploit payload"
+}

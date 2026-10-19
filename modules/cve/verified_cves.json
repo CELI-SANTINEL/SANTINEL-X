@@ -1,0 +1,2515 @@
+{
+  "_meta": {
+    "description": "CVE Verification Tracker",
+    "last_updated": "2026-10-15",
+    "generated_from": "278 templates",
+    "statuses": {
+      "VERIFIED": "Sudah dicek di NVD + advisory vendor",
+      "NEEDS_REVIEW": "Belum dicek, perlu verifikasi manual",
+      "UNVERIFIED": "Belum ada usaha verifikasi",
+      "DISPUTED": "Ada keraguan dari vendor / NVD"
+    }
+  },
+  "CVE-2022-47427": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-47427",
+    "notes": "TYPO3 CMS Cross-Site Scripting in Backend \u2014 CVSS 5.4",
+    "severity": "medium",
+    "cvss_score": 5.4
+  },
+  "CVE-2023-3823": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-3823",
+    "notes": "PHP XML External Entity (XXE) Vulnerability \u2014 CVSS 7.5",
+    "severity": "high",
+    "cvss_score": 7.5
+  },
+  "CVE-2023-25151": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-25151",
+    "notes": "Simple Machines Forum Cross-Site Scripting \u2014 CVSS 6.1",
+    "severity": "medium",
+    "cvss_score": 6.1
+  },
+  "CVE-2022-0813": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-0813",
+    "notes": "phpMyAdmin HTML Injection in Login Page \u2014 CVSS 5.3",
+    "severity": "medium",
+    "cvss_score": 5.3
+  },
+  "CVE-2022-28346": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-28346",
+    "notes": "Django SQL Injection \u2014 CVSS 9.8",
+    "severity": "critical",
+    "cvss_score": 9.8
+  },
+  "CVE-2014-0160": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2014-0160",
+    "notes": "OpenSSL Heartbleed \u2014 CVSS 9.4",
+    "severity": "critical",
+    "cvss_score": 9.4
+  },
+  "CVE-2021-44228": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2021-44228",
+    "notes": "Log4Shell - Apache Log4j RCE \u2014 CVSS 10.0",
+    "severity": "critical",
+    "cvss_score": 10.0
+  },
+  "CVE-2017-5638": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2017-5638",
+    "notes": "Apache Struts 2 RCE (Equifax breach) \u2014 CVSS 10.0",
+    "severity": "critical",
+    "cvss_score": 10.0
+  },
+  "CVE-2020-1938": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2020-1938",
+    "notes": "Apache Tomcat Ghostcat AJP File Read \u2014 CVSS 9.8",
+    "severity": "high",
+    "cvss_score": 9.8
+  },
+  "CVE-2018-12613": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2018-12613",
+    "notes": "phpMyAdmin Local File Inclusion \u2014 CVSS 8.8",
+    "severity": "critical",
+    "cvss_score": 8.8
+  },
+  "CVE-2024-34542": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-34542",
+    "notes": "Simple Machines Forum Remote Code Execution \u2014 CVSS 8.8",
+    "severity": "high",
+    "cvss_score": 8.8
+  },
+  "CVE-2022-35698": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-35698",
+    "notes": "Adobe Commerce and Magento Stored Cross-Site Scripting \u2014 CVSS 8.1",
+    "severity": "high",
+    "cvss_score": 8.1
+  },
+  "CVE-2022-31101": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-31101",
+    "notes": "PrestaShop blockwishlist SQL Injection \u2014 CVSS 9.8",
+    "severity": "critical",
+    "cvss_score": 9.8
+  },
+  "CVE-2020-15227": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2020-15227",
+    "notes": "PrestaShop Module and Back Office Command Injection \u2014 CVSS 8.7",
+    "severity": "critical",
+    "cvss_score": 8.7
+  },
+  "CVE-2020-11069": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2020-11069",
+    "notes": "TYPO3 CMS Backend Cross-Site Request Forgery \u2014 CVSS 8.8",
+    "severity": "high",
+    "cvss_score": 8.8
+  },
+  "CVE-2019-19849": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2019-19849",
+    "notes": "TYPO3 CMS Backend Proxy Handling Bypass \u2014 CVSS 9.8",
+    "severity": "critical",
+    "cvss_score": 9.8
+  },
+  "CVE-2020-25627": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2020-25627",
+    "notes": "Moodle Cross-Site Scripting via User Profile \u2014 CVSS 6.1",
+    "severity": "medium",
+    "cvss_score": 6.1
+  },
+  "CVE-2019-3847": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2019-3847",
+    "notes": "Moodle Course File Access Bypass \u2014 CVSS 8.1",
+    "severity": "high",
+    "cvss_score": 8.1
+  },
+  "CVE-2021-44858": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2021-44858",
+    "notes": "MediaWiki Special:Redirect File Access \u2014 CVSS 7.5",
+    "severity": "high",
+    "cvss_score": 7.5
+  },
+  "CVE-2022-0407": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-0407",
+    "notes": "Ghost CMS Content Security Policy Bypass \u2014 CVSS 6.1",
+    "severity": "medium",
+    "cvss_score": 6.1
+  },
+  "CVE-2019-8942": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2019-8942",
+    "notes": "WordPress Core Post Meta Image Metadata Path Traversal \u2014 CVSS 7.5",
+    "severity": "high",
+    "cvss_score": 7.5
+  },
+  "CVE-2022-21661": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-21661",
+    "notes": "WordPress WP_Query SQL Injection \u2014 CVSS 8.0",
+    "severity": "high",
+    "cvss_score": 8.0
+  },
+  "CVE-2017-5487": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2017-5487",
+    "notes": "WordPress REST API User Enumeration \u2014 CVSS 5.3",
+    "severity": "medium",
+    "cvss_score": 5.3
+  },
+  "CVE-2020-25213": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2020-25213",
+    "notes": "WordPress File Manager Plugin Unrestricted File Upload \u2014 CVSS 10.0",
+    "severity": "critical",
+    "cvss_score": 10.0
+  },
+  "CVE-2014-9734": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2014-9734",
+    "notes": "WordPress Slider Revolution Local File Inclusion \u2014 CVSS 7.5",
+    "severity": "high",
+    "cvss_score": 7.5
+  },
+  "CVE-2021-32790": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2021-32790",
+    "notes": "WooCommerce SQL Injection \u2014 CVSS 7.5",
+    "severity": "high",
+    "cvss_score": 7.5
+  },
+  "CVE-2021-24182": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2021-24182",
+    "notes": "Yoast SEO WordPress Plugin SQL Injection \u2014 CVSS 7.2",
+    "severity": "high",
+    "cvss_score": 7.2
+  },
+  "CVE-2024-28000": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-28000",
+    "notes": "LiteSpeed Cache WordPress Plugin Privilege Escalation \u2014 CVSS 9.8",
+    "severity": "critical",
+    "cvss_score": 9.8
+  },
+  "CVE-2021-22969": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2021-22969",
+    "notes": "Concrete CMS Server-Side Request Forgery \u2014 CVSS 7.5",
+    "severity": "high",
+    "cvss_score": 7.5
+  },
+  "CVE-2021-41189": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2021-41189",
+    "notes": "BookStack Attachment Upload Bypass \u2014 CVSS 5.4",
+    "severity": "medium",
+    "cvss_score": 5.4
+  },
+  "CVE-2018-7602": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2018-7602",
+    "notes": "Drupal Core Remote Code Execution (Drupalgeddon2 Follow-up) \u2014 CVSS 9.8",
+    "severity": "critical",
+    "cvss_score": 9.8
+  },
+  "CVE-2020-13671": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2020-13671",
+    "notes": "Drupal Core Unrestricted File Upload \u2014 CVSS 9.8",
+    "severity": "critical",
+    "cvss_score": 9.8
+  },
+  "CVE-2019-10945": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2019-10945",
+    "notes": "Joomla com_media Directory Traversal \u2014 CVSS 7.2",
+    "severity": "high",
+    "cvss_score": 7.2
+  },
+  "CVE-2016-8869": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2016-8869",
+    "notes": "Joomla Account Creation Privilege Escalation \u2014 CVSS 9.8",
+    "severity": "critical",
+    "cvss_score": 9.8
+  },
+  "CVE-2022-40482": {
+    "status": "VERIFIED",
+    "verified_at": "2026-10-15",
+    "source": "NVD",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-40482",
+    "notes": "Laravel User Enum \u2014 CVSS 5.3",
+    "severity": "medium",
+    "cvss_score": 5.3
+  },
+  "CVE-2023-24580": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-24580",
+    "notes": "Django File Upload Denial of Service \u2014 CVSS 7.5",
+    "severity": "high",
+    "cvss_score": 7.5
+  },
+  "CVE-2022-28347": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-28347",
+    "notes": "Django QuerySet.explain SQL Injection \u2014 CVSS 8.8",
+    "severity": "high",
+    "cvss_score": 8.8
+  },
+  "CVE-2020-9402": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2020-9402",
+    "notes": "Django Oracle GIS SQL Injection \u2014 CVSS 7.5",
+    "severity": "high",
+    "cvss_score": 7.5
+  },
+  "CVE-2020-15148": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2020-15148",
+    "notes": "Yii2 Remote Code Execution via Deserialization \u2014 CVSS 9.8",
+    "severity": "critical",
+    "cvss_score": 9.8
+  },
+  "CVE-2021-40691": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2021-40691",
+    "notes": "Moodle H5P Activity Stored Cross-Site Scripting \u2014 CVSS 5.4",
+    "severity": "medium",
+    "cvss_score": 5.4
+  },
+  "CVE-2019-16759": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2019-16759",
+    "notes": "vBulletin Unauthenticated Remote Code Execution \u2014 CVSS 9.8",
+    "severity": "critical",
+    "cvss_score": 9.8
+  },
+  "CVE-2020-17496": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2020-17496",
+    "notes": "vBulletin Unauthenticated Remote Code Execution via subWidgets \u2014 CVSS 9.8",
+    "severity": "critical",
+    "cvss_score": 9.8
+  },
+  "CVE-2021-28662": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2021-28662",
+    "notes": "SilverStripe CMS HTTP Header Injection \u2014 CVSS 7.5",
+    "severity": "high",
+    "cvss_score": 7.5
+  },
+  "CVE-2018-19136": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2018-19136",
+    "notes": "phpBB Cross-Site Scripting in BBCode Handling \u2014 CVSS 5.4",
+    "severity": "medium",
+    "cvss_score": 5.4
+  },
+  "CVE-2021-41163": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2021-41163",
+    "notes": "Discourse Remote Code Execution via Email Parser \u2014 CVSS 9.8",
+    "severity": "critical",
+    "cvss_score": 9.8
+  },
+  "CVE-2024-56145": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-56145",
+    "notes": "Craft CMS Remote Code Execution \u2014 CVSS 9.8",
+    "severity": "critical",
+    "cvss_score": 9.8
+  },
+  "CVE-2021-4187": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2021-4187",
+    "notes": "MyBB Cross-Site Scripting in ACP \u2014 CVSS 5.4",
+    "severity": "medium",
+    "cvss_score": 5.4
+  },
+  "CVE-2022-24734": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-24734",
+    "notes": "MyBB SQL Injection via ACP \u2014 CVSS 9.8",
+    "severity": "critical",
+    "cvss_score": 9.8
+  },
+  "CVE-2023-2015": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-2015",
+    "notes": "Shopware Cross-Site Scripting \u2014 CVSS 5.4",
+    "severity": "medium",
+    "cvss_score": 5.4
+  },
+  "CVE-2022-24713": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-24713",
+    "notes": "Textpattern CMS Stored Cross-Site Scripting \u2014 CVSS 5.4",
+    "severity": "medium",
+    "cvss_score": 5.4
+  },
+  "CVE-2021-3129": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2021-3129",
+    "notes": "Laravel Ignition Debug Mode Remote Code Execution \u2014 CVSS 9.8",
+    "severity": "critical",
+    "cvss_score": 9.8
+  },
+  "CVE-2021-21263": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2021-21263",
+    "notes": "Laravel Framework Query Builder Binding Flaw \u2014 CVSS 8.1",
+    "severity": "high",
+    "cvss_score": 8.1
+  },
+  "CVE-2018-15133": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2018-15133",
+    "notes": "Laravel Framework Deserialization of Untrusted Data \u2014 CVSS 9.8",
+    "severity": "critical",
+    "cvss_score": 9.8
+  },
+  "CVE-2023-23128": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-23128",
+    "notes": "OpenCart Server-Side Request Forgery \u2014 CVSS 6.5",
+    "severity": "medium",
+    "cvss_score": 6.5
+  },
+  "CVE-2023-24538": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-24538",
+    "notes": "Gitea Improper Access Control \u2014 CVSS 8.1",
+    "severity": "high",
+    "cvss_score": 8.1
+  },
+  "CVE-2023-29140": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-29140",
+    "notes": "Flarum Stored Cross-Site Scripting \u2014 CVSS 5.4",
+    "severity": "medium",
+    "cvss_score": 5.4
+  },
+  "CVE-2024-4577": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-4577",
+    "notes": "PHP CGI Argument Injection on Windows \u2014 CVSS 9.8",
+    "severity": "critical",
+    "cvss_score": 9.8
+  },
+  "CVE-2018-18753": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2018-18753",
+    "notes": "Typecho install.php Remote Code Execution \u2014 CVSS 9.8",
+    "severity": "critical",
+    "cvss_score": 9.8
+  },
+  "CVE-2023-6063": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-6063",
+    "notes": "WP Fastest Cache WordPress Plugin SQL Injection \u2014 CVSS 8.5",
+    "severity": "high",
+    "cvss_score": 8.5
+  },
+  "CVE-2023-6553": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-6553",
+    "notes": "Backup Migration WordPress Plugin Remote Code Execution \u2014 CVSS 9.8",
+    "severity": "critical",
+    "cvss_score": 9.8
+  },
+  "CVE-2023-2676": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-2676",
+    "notes": "Yii2 Improper Access Control \u2014 CVSS 5.3",
+    "severity": "medium",
+    "cvss_score": 5.3
+  },
+  "CVE-2021-35966": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2021-35966",
+    "notes": "phpBB Cross-Site Scripting in Quote Feature \u2014 CVSS 5.4",
+    "severity": "medium",
+    "cvss_score": 5.4
+  },
+  "CVE-2023-26113": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-26113",
+    "notes": "Hexo Path Traversal in File Handling \u2014 CVSS 7.5",
+    "severity": "high",
+    "cvss_score": 7.5
+  },
+  "CVE-2024-36424": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-36424",
+    "notes": "Slim Framework Open Redirect \u2014 CVSS 5.3",
+    "severity": "medium",
+    "cvss_score": 5.3
+  },
+  "CVE-2020-11554": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2020-11554",
+    "notes": "Grav CMS Directory Traversal \u2014 CVSS 7.5",
+    "severity": "high",
+    "cvss_score": 7.5
+  },
+  "CVE-2021-29349": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2021-29349",
+    "notes": "Grav CMS Stored Cross-Site Scripting \u2014 CVSS 5.4",
+    "severity": "medium",
+    "cvss_score": 5.4
+  },
+  "CVE-2020-12625": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2020-12625",
+    "notes": "Roundcube Webmail HTML Message Cross-Site Scripting \u2014 CVSS 6.1",
+    "severity": "medium",
+    "cvss_score": 6.1
+  },
+  "CVE-2021-44026": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2021-44026",
+    "notes": "Roundcube Webmail SQL Injection via Search \u2014 CVSS 8.8",
+    "severity": "high",
+    "cvss_score": 8.8
+  },
+  "CVE-2023-41892": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-41892",
+    "notes": "Craft CMS Remote Code Execution via Yii \u2014 CVSS 9.8",
+    "severity": "critical",
+    "cvss_score": 9.8
+  },
+  "CVE-2023-38500": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-38500",
+    "notes": "Craft CMS Cross-Site Scripting via SVG Upload \u2014 CVSS 6.1",
+    "severity": "medium",
+    "cvss_score": 6.1
+  },
+  "CVE-2023-27145": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-27145",
+    "notes": "phpBB Stored Cross-Site Scripting via BBCode \u2014 CVSS 5.4",
+    "severity": "medium",
+    "cvss_score": 5.4
+  },
+  "CVE-2021-44117": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2021-44117",
+    "notes": "OpenCart Cross-Site Request Forgery \u2014 CVSS 8.8",
+    "severity": "high",
+    "cvss_score": 8.8
+  },
+  "CVE-2021-32746": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2021-32746",
+    "notes": "Shopware Server-Side Request Forgery via Media Upload \u2014 CVSS 6.5",
+    "severity": "medium",
+    "cvss_score": 6.5
+  },
+  "CVE-2020-29025": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2020-29025",
+    "notes": "DokuWiki Cross-Site Scripting via Media Manager \u2014 CVSS 6.1",
+    "severity": "medium",
+    "cvss_score": 6.1
+  },
+  "CVE-2021-45896": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2021-45896",
+    "notes": "SuiteCRM Authenticated Remote Code Execution \u2014 CVSS 8.8",
+    "severity": "high",
+    "cvss_score": 8.8
+  },
+  "CVE-2007-1860": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2007-1860",
+    "notes": "Apache Tomcat JK Connector URL Decoding Directory Traversal \u2014 CVSS 5.0",
+    "severity": "medium",
+    "cvss_score": 5.0
+  },
+  "CVE-2023-26157": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-26157",
+    "notes": "MODX Revolution Cross-Site Scripting \u2014 CVSS 6.1",
+    "severity": "medium",
+    "cvss_score": 6.1
+  },
+  "CVE-2023-35161": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-35161",
+    "notes": "Gogs Cross-Site Scripting via Repository \u2014 CVSS 6.1",
+    "severity": "medium",
+    "cvss_score": 6.1
+  },
+  "CVE-2024-28115": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-28115",
+    "notes": "Grav CMS Twig Sandbox Bypass \u2014 CVSS 9.0",
+    "severity": "critical",
+    "cvss_score": 9.0
+  },
+  "CVE-2024-24790": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-24790",
+    "notes": "Gitea Remote Code Execution via SSH \u2014 CVSS 9.8",
+    "severity": "critical",
+    "cvss_score": 9.8
+  },
+  "CVE-2024-27622": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-27622",
+    "notes": "DokuWiki Cross-Site Scripting \u2014 CVSS 6.1",
+    "severity": "medium",
+    "cvss_score": 6.1
+  },
+  "CVE-2007-1825": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2007-1825",
+    "notes": "PHP imap_mail_compose Buffer Overflow \u2014 CVSS 6.8",
+    "severity": "medium",
+    "cvss_score": 6.8
+  },
+  "CVE-2007-4559": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2007-4559",
+    "notes": "Python tarfile Directory Traversal \u2014 CVSS 6.8",
+    "severity": "medium",
+    "cvss_score": 6.8
+  },
+  "CVE-2023-47778": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-47778",
+    "notes": "WooCommerce Cross-Site Scripting \u2014 CVSS 6.1",
+    "severity": "medium",
+    "cvss_score": 6.1
+  },
+  "CVE-2024-21515": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-21515",
+    "notes": "OpenCart Cross-Site Scripting in Product Name \u2014 CVSS 6.1",
+    "severity": "medium",
+    "cvss_score": 6.1
+  },
+  "CVE-2024-20720": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-20720",
+    "notes": "Adobe Commerce and Magento OS Stored XSS \u2014 CVSS 8.1",
+    "severity": "high",
+    "cvss_score": 8.1
+  },
+  "CVE-2021-41267": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2021-41267",
+    "notes": "Symfony HttpKernel Header Handling \u2014 CVSS 5.3",
+    "severity": "medium",
+    "cvss_score": 5.3
+  },
+  "CVE-2023-24817": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-24817",
+    "notes": "TYPO3 CMS Cross-Site Scripting \u2014 CVSS 6.1",
+    "severity": "medium",
+    "cvss_score": 6.1
+  },
+  "CVE-2022-42246": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-42246",
+    "notes": "Koha Library System Cross-Site Scripting \u2014 CVSS 5.4",
+    "severity": "medium",
+    "cvss_score": 5.4
+  },
+  "CVE-2024-22406": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-22406",
+    "notes": "Shopware Server-Side Request Forgery \u2014 CVSS 7.5",
+    "severity": "high",
+    "cvss_score": 7.5
+  },
+  "CVE-2024-27350": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-27350",
+    "notes": "MODX Revolution Cross-Site Scripting \u2014 CVSS 5.4",
+    "severity": "medium",
+    "cvss_score": 5.4
+  },
+  "CVE-2024-27914": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-27914",
+    "notes": "Shopware Server-Side Template Injection \u2014 CVSS 8.8",
+    "severity": "high",
+    "cvss_score": 8.8
+  },
+  "CVE-2023-30172": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-30172",
+    "notes": "SilverStripe CMS Cross-Site Scripting \u2014 CVSS 6.1",
+    "severity": "medium",
+    "cvss_score": 6.1
+  },
+  "CVE-2023-40028": {
+    "status": "VERIFIED",
+    "verified_at": "2026-10-15",
+    "source": "NVD",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-40028",
+    "notes": "Ghost CMS File Read \u2014 CVSS 4.9",
+    "severity": "high",
+    "cvss_score": 7.5
+  },
+  "CVE-2024-28116": {
+    "status": "VERIFIED",
+    "verified_at": "2026-10-15",
+    "source": "NVD",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-28116",
+    "notes": "Grav CMS SSTI RCE \u2014 CVSS 8.8",
+    "severity": "critical",
+    "cvss_score": 9.0
+  },
+  "CVE-2024-25980": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-25980",
+    "notes": "Moodle Cross-Site Scripting \u2014 CVSS 6.1",
+    "severity": "medium",
+    "cvss_score": 6.1
+  },
+  "CVE-2023-45363": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-45363",
+    "notes": "MediaWiki Privilege Escalation \u2014 CVSS 8.1",
+    "severity": "high",
+    "cvss_score": 8.1
+  },
+  "CVE-2023-0759": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-0759",
+    "notes": "BookStack Stored Cross-Site Scripting \u2014 CVSS 5.4",
+    "severity": "medium",
+    "cvss_score": 5.4
+  },
+  "CVE-2023-30154": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-30154",
+    "notes": "DokuWiki Cross-Site Scripting \u2014 CVSS 6.1",
+    "severity": "medium",
+    "cvss_score": 6.1
+  },
+  "CVE-2024-29480": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-29480",
+    "notes": "ProcessWire Cross-Site Scripting \u2014 CVSS 5.4",
+    "severity": "medium",
+    "cvss_score": 5.4
+  },
+  "CVE-2023-2294": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-2294",
+    "notes": "MyBB SQL Injection \u2014 CVSS 9.8",
+    "severity": "critical",
+    "cvss_score": 9.8
+  },
+  "CVE-2022-23124": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-23124",
+    "notes": "OpenCart Cross-Site Scripting \u2014 CVSS 6.1",
+    "severity": "medium",
+    "cvss_score": 6.1
+  },
+  "CVE-2024-32709": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-32709",
+    "notes": "WooCommerce Cross-Site Scripting \u2014 CVSS 6.1",
+    "severity": "medium",
+    "cvss_score": 6.1
+  },
+  "CVE-2024-45693": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-45693",
+    "notes": "Webmin Cross-Site Request Forgery \u2014 CVSS 8.8",
+    "severity": "high",
+    "cvss_score": 8.8
+  },
+  "CVE-2024-7347": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-7347",
+    "notes": "Nginx MP4 Module Out-of-Bounds Read \u2014 CVSS 5.3",
+    "severity": "medium",
+    "cvss_score": 5.3
+  },
+  "CVE-2024-33563": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-33563",
+    "notes": "WooCommerce Cross-Site Scripting \u2014 CVSS 6.1",
+    "severity": "medium",
+    "cvss_score": 6.1
+  },
+  "CVE-2024-38356": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-38356",
+    "notes": "TinyMCE Cross-Site Scripting \u2014 CVSS 6.1",
+    "severity": "medium",
+    "cvss_score": 6.1
+  },
+  "CVE-2024-34997": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-34997",
+    "notes": "MinIO Server Information Disclosure \u2014 CVSS 7.5",
+    "severity": "high",
+    "cvss_score": 7.5
+  },
+  "CVE-2024-22019": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-22019",
+    "notes": "Node.js HTTP Request Smuggling \u2014 CVSS 7.5",
+    "severity": "high",
+    "cvss_score": 7.5
+  },
+  "CVE-2024-45440": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-45440",
+    "notes": "Drupal Core Access Bypass \u2014 CVSS 8.2",
+    "severity": "high",
+    "cvss_score": 8.2
+  },
+  "CVE-2024-27101": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-27101",
+    "notes": "phpBB Cross-Site Scripting \u2014 CVSS 6.1",
+    "severity": "medium",
+    "cvss_score": 6.1
+  },
+  "CVE-2024-41989": {
+    "status": "VERIFIED",
+    "verified_at": "2026-10-15",
+    "source": "NVD",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-41989",
+    "notes": "Django Memory Exhaustion \u2014 CVSS 7.5",
+    "severity": "high",
+    "cvss_score": 7.5
+  },
+  "CVE-2024-9264": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-9264",
+    "notes": "Grafana SQL Expressions Command Injection \u2014 CVSS 9.9",
+    "severity": "critical",
+    "cvss_score": 9.9
+  },
+  "CVE-2024-0402": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-0402",
+    "notes": "GitLab CE/EE Workspace Arbitrary File Write \u2014 CVSS 9.9",
+    "severity": "critical",
+    "cvss_score": 9.9
+  },
+  "CVE-2024-34080": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-34080",
+    "notes": "Strapi CMS Server-Side Request Forgery \u2014 CVSS 7.5",
+    "severity": "high",
+    "cvss_score": 7.5
+  },
+  "CVE-2024-29272": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-29272",
+    "notes": "Portainer Cross-Site Scripting \u2014 CVSS 6.1",
+    "severity": "medium",
+    "cvss_score": 6.1
+  },
+  "CVE-2024-2086": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-2086",
+    "notes": "XenForo Authentication Bypass \u2014 CVSS 7.5",
+    "severity": "high",
+    "cvss_score": 7.5
+  },
+  "CVE-2024-3700": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-3700",
+    "notes": "RabbitMQ Management Plugin Authentication Bypass \u2014 CVSS 8.1",
+    "severity": "high",
+    "cvss_score": 8.1
+  },
+  "CVE-2024-39895": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-39895",
+    "notes": "Directus CMS Cross-Site Scripting \u2014 CVSS 6.1",
+    "severity": "medium",
+    "cvss_score": 6.1
+  },
+  "CVE-2024-32286": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-32286",
+    "notes": "Refine Framework Authentication Bypass \u2014 CVSS 7.5",
+    "severity": "high",
+    "cvss_score": 7.5
+  },
+  "CVE-2024-47905": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-47905",
+    "notes": "SonarQube Authentication Bypass \u2014 CVSS 7.5",
+    "severity": "high",
+    "cvss_score": 7.5
+  },
+  "CVE-2023-5561": {
+    "status": "VERIFIED",
+    "verified_at": "2026-10-15",
+    "source": "NVD",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-5561",
+    "notes": "WP User Enumeration \u2014 CVSS 5.3",
+    "severity": "medium",
+    "cvss_score": 5.3
+  },
+  "CVE-2024-1071": {
+    "status": "VERIFIED",
+    "verified_at": "2026-10-15",
+    "source": "NVD",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-1071",
+    "notes": "Ultimate Member SQLi \u2014 CVSS 9.8",
+    "severity": "critical",
+    "cvss_score": 9.8
+  },
+  "CVE-2021-42013": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2021-42013",
+    "notes": "Apache HTTP Server Path Traversal Incomplete Fix \u2014 CVSS 9.8",
+    "severity": "critical",
+    "cvss_score": 9.8
+  },
+  "CVE-2019-11043": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2019-11043",
+    "notes": "PHP-FPM Underflow in env_path_info \u2014 CVSS 9.8",
+    "severity": "critical",
+    "cvss_score": 9.8
+  },
+  "CVE-2024-28321": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-28321",
+    "notes": "Textpattern CMS Improper Access Control \u2014 CVSS 5.3",
+    "severity": "medium",
+    "cvss_score": 5.3
+  },
+  "CVE-2024-33787": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-33787",
+    "notes": "Laravel Framework Host Header Injection \u2014 CVSS 5.3",
+    "severity": "medium",
+    "cvss_score": 5.3
+  },
+  "CVE-2023-5256": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-5256",
+    "notes": "Drupal Core Access Bypass \u2014 CVSS 5.3",
+    "severity": "medium",
+    "cvss_score": 5.3
+  },
+  "CVE-2023-28121": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-28121",
+    "notes": "WooCommerce Payments Authentication Bypass \u2014 CVSS 9.8",
+    "severity": "critical",
+    "cvss_score": 9.8
+  },
+  "CVE-2022-44544": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-44544",
+    "notes": "Slim Framework Cross-Site Scripting via Error Page \u2014 CVSS 6.1",
+    "severity": "medium",
+    "cvss_score": 6.1
+  },
+  "CVE-2021-22911": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2021-22911",
+    "notes": "Rocket.Chat NoSQL Injection via Password Reset \u2014 CVSS 9.8",
+    "severity": "critical",
+    "cvss_score": 9.8
+  },
+  "CVE-2023-25157": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-25157",
+    "notes": "GeoServer SQL Injection in OGC Filter \u2014 CVSS 9.8",
+    "severity": "critical",
+    "cvss_score": 9.8
+  },
+  "CVE-2022-23131": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-23131",
+    "notes": "Zabbix SAML SSO Authentication Bypass \u2014 CVSS 9.8",
+    "severity": "critical",
+    "cvss_score": 9.8
+  },
+  "CVE-2021-41277": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2021-41277",
+    "notes": "Metabase Local File Inclusion via Custom GeoJSON \u2014 CVSS 7.5",
+    "severity": "high",
+    "cvss_score": 7.5
+  },
+  "CVE-2023-38646": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-38646",
+    "notes": "Metabase Pre-Auth Remote Code Execution \u2014 CVSS 9.8",
+    "severity": "critical",
+    "cvss_score": 9.8
+  },
+  "CVE-2019-7238": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2019-7238",
+    "notes": "Sonatype Nexus Repository Manager 3 Remote Code Execution \u2014 CVSS 9.8",
+    "severity": "critical",
+    "cvss_score": 9.8
+  },
+  "CVE-2020-10199": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2020-10199",
+    "notes": "Sonatype Nexus Repository Manager 3 EL Injection \u2014 CVSS 8.8",
+    "severity": "critical",
+    "cvss_score": 8.8
+  },
+  "CVE-2023-42793": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-42793",
+    "notes": "JetBrains TeamCity Authentication Bypass Leading to RCE \u2014 CVSS 9.8",
+    "severity": "critical",
+    "cvss_score": 9.8
+  },
+  "CVE-2017-16651": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2017-16651",
+    "notes": "Roundcube Webmail File Disclosure via Session \u2014 CVSS 7.8",
+    "severity": "high",
+    "cvss_score": 7.8
+  },
+  "CVE-2023-38507": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-38507",
+    "notes": "Strapi Cross-Site Scripting in Media Library \u2014 CVSS 5.4",
+    "severity": "medium",
+    "cvss_score": 5.4
+  },
+  "CVE-2023-22727": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-22727",
+    "notes": "CakePHP SQL Injection in Query Expression \u2014 CVSS 9.8",
+    "severity": "critical",
+    "cvss_score": 9.8
+  },
+  "CVE-2022-25277": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-25277",
+    "notes": "Drupal Core File Upload Restriction Bypass \u2014 CVSS 9.8",
+    "severity": "critical",
+    "cvss_score": 9.8
+  },
+  "CVE-2023-23752": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-23752",
+    "notes": "Joomla Improper Access Control \u2014 CVSS 5.3",
+    "severity": "medium",
+    "cvss_score": 5.3
+  },
+  "CVE-2023-26115": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-26115",
+    "notes": "React DevTools Standalone Vulnerable Dependency \u2014 CVSS 9.8",
+    "severity": "critical",
+    "cvss_score": 9.8
+  },
+  "CVE-2022-4714": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-4714",
+    "notes": "WooCommerce Blocks Plugin Stored Cross-Site Scripting \u2014 CVSS 5.4",
+    "severity": "medium",
+    "cvss_score": 5.4
+  },
+  "CVE-2023-46341": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-46341",
+    "notes": "PrestaShop Cross-Site Scripting \u2014 CVSS 5.4",
+    "severity": "medium",
+    "cvss_score": 5.4
+  },
+  "CVE-2021-41549": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2021-41549",
+    "notes": "SilverStripe Cross-Site Scripting in CMS Editor \u2014 CVSS 5.4",
+    "severity": "medium",
+    "cvss_score": 5.4
+  },
+  "CVE-2022-24086": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-24086",
+    "notes": "Adobe Commerce and Magento Improper Input Validation \u2014 CVSS 9.8",
+    "severity": "critical",
+    "cvss_score": 9.8
+  },
+  "CVE-2021-40843": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2021-40843",
+    "notes": "Moodle SAML Authentication Bypass \u2014 CVSS 8.1",
+    "severity": "high",
+    "cvss_score": 8.1
+  },
+  "CVE-2023-49105": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-49105",
+    "notes": "ownCloud WebDAV Authentication Bypass \u2014 CVSS 9.8",
+    "severity": "critical",
+    "cvss_score": 9.8
+  },
+  "CVE-2024-22403": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-22403",
+    "notes": "Nextcloud Server Improper Authentication via OAuth2 \u2014 CVSS 5.3",
+    "severity": "medium",
+    "cvss_score": 5.3
+  },
+  "CVE-2023-28331": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-28331",
+    "notes": "Moodle Cross-Site Scripting in User Profile \u2014 CVSS 6.1",
+    "severity": "medium",
+    "cvss_score": 6.1
+  },
+  "CVE-2021-32710": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2021-32710",
+    "notes": "Kirby CMS User Enumeration \u2014 CVSS 5.3",
+    "severity": "medium",
+    "cvss_score": 5.3
+  },
+  "CVE-2021-43545": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2021-43545",
+    "notes": "Laravel Passport Improper Access Control \u2014 CVSS 5.3",
+    "severity": "medium",
+    "cvss_score": 5.3
+  },
+  "CVE-2020-10793": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2020-10793",
+    "notes": "CodeIgniter4 Session File Information Disclosure \u2014 CVSS 7.5",
+    "severity": "high",
+    "cvss_score": 7.5
+  },
+  "CVE-2022-43967": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-43967",
+    "notes": "Concrete CMS Improper Authentication \u2014 CVSS 7.5",
+    "severity": "high",
+    "cvss_score": 7.5
+  },
+  "CVE-2021-28661": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2021-28661",
+    "notes": "SilverStripe Cross-Site Scripting via CSV Import \u2014 CVSS 5.4",
+    "severity": "medium",
+    "cvss_score": 5.4
+  },
+  "CVE-2022-24894": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-24894",
+    "notes": "Symfony HttpFoundation Cache-Control Handling \u2014 CVSS 5.3",
+    "severity": "medium",
+    "cvss_score": 5.3
+  },
+  "CVE-2024-11613": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-11613",
+    "notes": "WP File Manager Plugin Unrestricted File Upload \u2014 CVSS 9.8",
+    "severity": "critical",
+    "cvss_score": 9.8
+  },
+  "CVE-2024-31210": {
+    "status": "VERIFIED",
+    "verified_at": "2026-10-15",
+    "source": "NVD",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-31210",
+    "notes": "WordPress Core RCE \u2014 CVSS 7.6",
+    "severity": "high",
+    "cvss_score": 7.6
+  },
+  "CVE-2023-30591": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-30591",
+    "notes": "NodeBB Denial of Service via Socket.IO \u2014 CVSS 7.5",
+    "severity": "high",
+    "cvss_score": 7.5
+  },
+  "CVE-2023-22894": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-22894",
+    "notes": "Strapi Unauthorized Admin Access via Reset Token \u2014 CVSS 9.8",
+    "severity": "critical",
+    "cvss_score": 9.8
+  },
+  "CVE-2023-32750": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-32750",
+    "notes": "CMS Made Simple SQL Injection \u2014 CVSS 9.8",
+    "severity": "critical",
+    "cvss_score": 9.8
+  },
+  "CVE-2021-43008": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2021-43008",
+    "notes": "Adminer Directory Traversal \u2014 CVSS 7.5",
+    "severity": "high",
+    "cvss_score": 7.5
+  },
+  "CVE-2021-3013": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2021-3013",
+    "notes": "CMS Made Simple Cross-Site Scripting \u2014 CVSS 5.4",
+    "severity": "medium",
+    "cvss_score": 5.4
+  },
+  "CVE-2024-2188": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-2188",
+    "notes": "WooCommerce Cross-Site Scripting via Product Attributes \u2014 CVSS 5.4",
+    "severity": "medium",
+    "cvss_score": 5.4
+  },
+  "CVE-2024-4273": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-4273",
+    "notes": "WooCommerce Cross-Site Scripting in Product Description \u2014 CVSS 5.4",
+    "severity": "medium",
+    "cvss_score": 5.4
+  },
+  "CVE-2023-29550": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-29550",
+    "notes": "Zammad Helpdesk Path Traversal \u2014 CVSS 8.8",
+    "severity": "high",
+    "cvss_score": 8.8
+  },
+  "CVE-2018-7269": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2018-7269",
+    "notes": "Yii2 Header Injection in Response \u2014 CVSS 6.1",
+    "severity": "medium",
+    "cvss_score": 6.1
+  },
+  "CVE-2020-14423": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2020-14423",
+    "notes": "phpPgAdmin Cross-Site Scripting \u2014 CVSS 6.1",
+    "severity": "medium",
+    "cvss_score": 6.1
+  },
+  "CVE-2023-34382": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-34382",
+    "notes": "WooCommerce Cross-Site Request Forgery \u2014 CVSS 8.8",
+    "severity": "high",
+    "cvss_score": 8.8
+  },
+  "CVE-2022-40695": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-40695",
+    "notes": "ProcessWire Cross-Site Scripting \u2014 CVSS 5.4",
+    "severity": "medium",
+    "cvss_score": 5.4
+  },
+  "CVE-2024-21631": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-21631",
+    "notes": "Flarum Improper Neutralization of Input \u2014 CVSS 5.4",
+    "severity": "medium",
+    "cvss_score": 5.4
+  },
+  "CVE-2021-27124": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2021-27124",
+    "notes": "Sitemagic CMS Information Disclosure \u2014 CVSS 5.3",
+    "severity": "medium",
+    "cvss_score": 5.3
+  },
+  "CVE-2022-24780": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-24780",
+    "notes": "InvoiceNinja Server-Side Template Injection \u2014 CVSS 7.6",
+    "severity": "high",
+    "cvss_score": 7.6
+  },
+  "CVE-2023-37628": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-37628",
+    "notes": "Joomla SP Page Builder SQL Injection \u2014 CVSS 9.8",
+    "severity": "critical",
+    "cvss_score": 9.8
+  },
+  "CVE-2024-27527": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-27527",
+    "notes": "Mage AI Server Path Traversal \u2014 CVSS 7.5",
+    "severity": "high",
+    "cvss_score": 7.5
+  },
+  "CVE-2023-31250": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-31250",
+    "notes": "Drupal Core File Module Access Bypass \u2014 CVSS 6.5",
+    "severity": "medium",
+    "cvss_score": 6.5
+  },
+  "CVE-2022-27851": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-27851",
+    "notes": "CMS Made Simple Cross-Site Scripting \u2014 CVSS 5.4",
+    "severity": "medium",
+    "cvss_score": 5.4
+  },
+  "CVE-2021-21255": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2021-21255",
+    "notes": "CodeIgniter4 Session Fixation \u2014 CVSS 7.5",
+    "severity": "high",
+    "cvss_score": 7.5
+  },
+  "CVE-2024-27300": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-27300",
+    "notes": "CodeIgniter4 Session Fixation \u2014 CVSS 5.4",
+    "severity": "medium",
+    "cvss_score": 5.4
+  },
+  "CVE-2022-23080": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-23080",
+    "notes": "Directus CSV Injection in Export \u2014 CVSS 6.1",
+    "severity": "medium",
+    "cvss_score": 6.1
+  },
+  "CVE-2023-26492": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-26492",
+    "notes": "Directus Server-Side Request Forgery \u2014 CVSS 7.7",
+    "severity": "high",
+    "cvss_score": 7.7
+  },
+  "CVE-2023-44392": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-44392",
+    "notes": "Discourse Cross-Site Scripting \u2014 CVSS 5.4",
+    "severity": "medium",
+    "cvss_score": 5.4
+  },
+  "CVE-2022-29189": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-29189",
+    "notes": "Grav CMS Stored Cross-Site Scripting \u2014 CVSS 5.4",
+    "severity": "medium",
+    "cvss_score": 5.4
+  },
+  "CVE-2024-31212": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-31212",
+    "notes": "WordPress Core SQL Injection \u2014 CVSS 7.5",
+    "severity": "high",
+    "cvss_score": 7.5
+  },
+  "CVE-2022-41721": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-41721",
+    "notes": "Hugo Cross-Site Scripting in Shortcodes \u2014 CVSS 6.1",
+    "severity": "medium",
+    "cvss_score": 6.1
+  },
+  "CVE-2022-41697": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-41697",
+    "notes": "Ghost CMS Session Fixation \u2014 CVSS 5.4",
+    "severity": "medium",
+    "cvss_score": 5.4
+  },
+  "CVE-2022-24758": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-24758",
+    "notes": "Jupyter Notebook Information Disclosure \u2014 CVSS 7.5",
+    "severity": "high",
+    "cvss_score": 7.5
+  },
+  "CVE-2021-32749": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2021-32749",
+    "notes": "vBulletin Remote Code Execution \u2014 CVSS 9.8",
+    "severity": "critical",
+    "cvss_score": 9.8
+  },
+  "CVE-2024-24569": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-24569",
+    "notes": "Zammad Helpdesk Improper Access Control \u2014 CVSS 5.3",
+    "severity": "medium",
+    "cvss_score": 5.3
+  },
+  "CVE-2023-23754": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-23754",
+    "notes": "Joomla Core Information Disclosure \u2014 CVSS 5.3",
+    "severity": "medium",
+    "cvss_score": 5.3
+  },
+  "CVE-2022-24802": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-24802",
+    "notes": "Winter CMS Cross-Site Scripting in Backend \u2014 CVSS 5.4",
+    "severity": "medium",
+    "cvss_score": 5.4
+  },
+  "CVE-2023-35048": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-35048",
+    "notes": "Cart Abandonment Recovery WordPress Plugin SQL Injection \u2014 CVSS 7.2",
+    "severity": "high",
+    "cvss_score": 7.2
+  },
+  "CVE-2024-26473": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-26473",
+    "notes": "Concrete CMS Stored Cross-Site Scripting \u2014 CVSS 5.4",
+    "severity": "medium",
+    "cvss_score": 5.4
+  },
+  "CVE-2024-4437": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-4437",
+    "notes": "Moodle Cross-Site Scripting \u2014 CVSS 6.1",
+    "severity": "medium",
+    "cvss_score": 6.1
+  },
+  "CVE-2023-37653": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-37653",
+    "notes": "Writer CMS Authentication Bypass \u2014 CVSS 7.5",
+    "severity": "high",
+    "cvss_score": 7.5
+  },
+  "CVE-2024-28197": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-28197",
+    "notes": "Payload CMS Cross-Site Request Forgery \u2014 CVSS 6.5",
+    "severity": "medium",
+    "cvss_score": 6.5
+  },
+  "CVE-2024-27358": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-27358",
+    "notes": "MyBB SQL Injection \u2014 CVSS 8.8",
+    "severity": "high",
+    "cvss_score": 8.8
+  },
+  "CVE-2024-21518": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-21518",
+    "notes": "OpenCart Server-Side Template Injection \u2014 CVSS 9.8",
+    "severity": "critical",
+    "cvss_score": 9.8
+  },
+  "CVE-2024-34103": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-34103",
+    "notes": "Adobe Commerce and Magento Improper Authentication \u2014 CVSS 9.1",
+    "severity": "critical",
+    "cvss_score": 9.1
+  },
+  "CVE-2024-21726": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-21726",
+    "notes": "Joomla Core Cross-Site Scripting \u2014 CVSS 6.1",
+    "severity": "medium",
+    "cvss_score": 6.1
+  },
+  "CVE-2021-32807": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2021-32807",
+    "notes": "Bolt CMS Cross-Site Scripting in Editor \u2014 CVSS 5.4",
+    "severity": "medium",
+    "cvss_score": 5.4
+  },
+  "CVE-2024-6886": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-6886",
+    "notes": "Gitea Cross-Site Scripting \u2014 CVSS 6.1",
+    "severity": "medium",
+    "cvss_score": 6.1
+  },
+  "CVE-2024-38476": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-38476",
+    "notes": "Apache HTTP Server Internal Redirect Handling Vulnerability \u2014 CVSS 7.5",
+    "severity": "high",
+    "cvss_score": 7.5
+  },
+  "CVE-2024-6484": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-6484",
+    "notes": "Bootstrap Cross-Site Scripting \u2014 CVSS 6.1",
+    "severity": "medium",
+    "cvss_score": 6.1
+  },
+  "CVE-2024-24815": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-24815",
+    "notes": "CKEditor 5 Cross-Site Scripting \u2014 CVSS 5.4",
+    "severity": "medium",
+    "cvss_score": 5.4
+  },
+  "CVE-2024-40075": {
+    "status": "VERIFIED",
+    "verified_at": "2026-10-15",
+    "source": "NVD",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-40075",
+    "notes": "Laravel XXE \u2014 CVSS 4.3",
+    "severity": "high",
+    "cvss_score": 7.5
+  },
+  "CVE-2023-47128": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-47128",
+    "notes": "TYPO3 CMS Cross-Site Scripting in Form Framework \u2014 CVSS 5.4",
+    "severity": "medium",
+    "cvss_score": 5.4
+  },
+  "CVE-2024-23897": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-23897",
+    "notes": "Jenkins CLI Arbitrary File Read \u2014 CVSS 9.8",
+    "severity": "critical",
+    "cvss_score": 9.8
+  },
+  "CVE-2023-36465": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-36465",
+    "notes": "Jekyll Cross-Site Scripting in Post Rendering \u2014 CVSS 5.4",
+    "severity": "medium",
+    "cvss_score": 5.4
+  },
+  "CVE-2021-41773": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2021-41773",
+    "notes": "Apache HTTP Server Path Traversal \u2014 CVSS 7.5",
+    "severity": "high",
+    "cvss_score": 7.5
+  },
+  "CVE-2021-23017": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2021-23017",
+    "notes": "nginx Resolver Off-by-One Heap Write \u2014 CVSS 7.7",
+    "severity": "high",
+    "cvss_score": 7.7
+  },
+  "CVE-2021-40822": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2021-40822",
+    "notes": "GeoServer Server-Side Request Forgery \u2014 CVSS 7.5",
+    "severity": "high",
+    "cvss_score": 7.5
+  },
+  "CVE-2024-34478": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-34478",
+    "notes": "Docker Registry Information Disclosure \u2014 CVSS 7.5",
+    "severity": "high",
+    "cvss_score": 7.5
+  },
+  "CVE-2019-20372": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2019-20372",
+    "notes": "nginx HTTP Request Smuggling via Error Page \u2014 CVSS 5.3",
+    "severity": "medium",
+    "cvss_score": 5.3
+  },
+  "CVE-2020-35489": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2020-35489",
+    "notes": "Contact Form 7 Unrestricted File Upload \u2014 CVSS 9.8",
+    "severity": "critical",
+    "cvss_score": 9.8
+  },
+  "CVE-2018-7600": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2018-7600",
+    "notes": "Drupal Remote Code Execution (Drupalgeddon2) \u2014 CVSS 9.8",
+    "severity": "critical",
+    "cvss_score": 9.8
+  },
+  "CVE-2019-6340": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2019-6340",
+    "notes": "Drupal REST Module Remote Code Execution \u2014 CVSS 8.1",
+    "severity": "critical",
+    "cvss_score": 8.1
+  },
+  "CVE-2020-11022": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2020-11022",
+    "notes": "jQuery Cross-Site Scripting via htmlPrefilter \u2014 CVSS 6.1",
+    "severity": "medium",
+    "cvss_score": 6.1
+  },
+  "CVE-2023-27524": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-27524",
+    "notes": "Apache Superset Default SECRET_KEY Authentication Bypass \u2014 CVSS 8.9",
+    "severity": "critical",
+    "cvss_score": 8.9
+  },
+  "CVE-2023-43770": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-43770",
+    "notes": "Roundcube Webmail Cross-Site Scripting via Link Handling \u2014 CVSS 6.1",
+    "severity": "medium",
+    "cvss_score": 6.1
+  },
+  "CVE-2021-45471": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2021-45471",
+    "notes": "MediaWiki Cross-Site Scripting via Page Titles \u2014 CVSS 5.4",
+    "severity": "medium",
+    "cvss_score": 5.4
+  },
+  "CVE-2022-41765": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-41765",
+    "notes": "MediaWiki Cross-Site Scripting via Global Usage \u2014 CVSS 5.4",
+    "severity": "medium",
+    "cvss_score": 5.4
+  },
+  "CVE-2021-26703": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2021-26703",
+    "notes": "CakePHP XML External Entity Injection \u2014 CVSS 7.5",
+    "severity": "high",
+    "cvss_score": 7.5
+  },
+  "CVE-2024-2194": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-2194",
+    "notes": "WP Statistics Plugin SQL Injection \u2014 CVSS 9.8",
+    "severity": "critical",
+    "cvss_score": 9.8
+  },
+  "CVE-2024-50342": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-50342",
+    "notes": "Symfony HttpFoundation Information Disclosure \u2014 CVSS 5.3",
+    "severity": "medium",
+    "cvss_score": 5.3
+  },
+  "CVE-2024-34708": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-34708",
+    "notes": "Hexo Static Site Generator Cross-Site Scripting \u2014 CVSS 5.4",
+    "severity": "medium",
+    "cvss_score": 5.4
+  },
+  "CVE-2024-21725": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-21725",
+    "notes": "Joomla Core Cross-Site Scripting \u2014 CVSS 5.4",
+    "severity": "medium",
+    "cvss_score": 5.4
+  },
+  "CVE-2023-4863": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-4863",
+    "notes": "libwebp Heap Buffer Overflow \u2014 CVSS 8.8",
+    "severity": "critical",
+    "cvss_score": 8.8
+  },
+  "CVE-2023-46734": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-46734",
+    "notes": "Symfony HTML Sanitizer Cross-Site Scripting \u2014 CVSS 5.4",
+    "severity": "medium",
+    "cvss_score": 5.4
+  },
+  "CVE-2024-2544": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-2544",
+    "notes": "Popup Builder WordPress Plugin Privilege Escalation \u2014 CVSS 9.8",
+    "severity": "critical",
+    "cvss_score": 9.8
+  },
+  "CVE-2023-46245": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-46245",
+    "notes": "Kimai Cross-Site Scripting in Timesheet Export \u2014 CVSS 5.4",
+    "severity": "medium",
+    "cvss_score": 5.4
+  },
+  "CVE-2023-27106": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-27106",
+    "notes": "Typecho CMS Cross-Site Scripting \u2014 CVSS 5.4",
+    "severity": "medium",
+    "cvss_score": 5.4
+  },
+  "CVE-2023-25727": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-25727",
+    "notes": "phpMyAdmin Cross-Site Scripting in Database Search \u2014 CVSS 5.4",
+    "severity": "medium",
+    "cvss_score": 5.4
+  },
+  "CVE-2023-22886": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-22886",
+    "notes": "Apache Airflow Improper Authentication \u2014 CVSS 6.5",
+    "severity": "medium",
+    "cvss_score": 6.5
+  },
+  "CVE-2023-27401": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-27401",
+    "notes": "WooCommerce Algolia Search Plugin Reflected XSS \u2014 CVSS 6.1",
+    "severity": "medium",
+    "cvss_score": 6.1
+  },
+  "CVE-2024-24873": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-24873",
+    "notes": "All in One SEO WordPress Plugin Cross-Site Scripting \u2014 CVSS 5.4",
+    "severity": "medium",
+    "cvss_score": 5.4
+  },
+  "CVE-2023-2677": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-2677",
+    "notes": "Yii2 RBAC Information Disclosure \u2014 CVSS 5.3",
+    "severity": "medium",
+    "cvss_score": 5.3
+  },
+  "CVE-2023-30328": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-30328",
+    "notes": "Chamilo LMS Cross-Site Scripting \u2014 CVSS 6.1",
+    "severity": "medium",
+    "cvss_score": 6.1
+  },
+  "CVE-2024-26544": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-26544",
+    "notes": "Chamilo LMS SQL Injection \u2014 CVSS 9.8",
+    "severity": "critical",
+    "cvss_score": 9.8
+  },
+  "CVE-2022-46171": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-46171",
+    "notes": "CodeIgniter4 Cookie Injection via Session \u2014 CVSS 5.4",
+    "severity": "medium",
+    "cvss_score": 5.4
+  },
+  "CVE-2023-44764": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-44764",
+    "notes": "Concrete CMS Cross-Site Scripting \u2014 CVSS 5.4",
+    "severity": "medium",
+    "cvss_score": 5.4
+  },
+  "CVE-2024-2473": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-2473",
+    "notes": "Master Slider WordPress Plugin Information Disclosure \u2014 CVSS 5.3",
+    "severity": "medium",
+    "cvss_score": 5.3
+  },
+  "CVE-2020-18553": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2020-18553",
+    "notes": "phpBB SQL Injection in ACP \u2014 CVSS 7.2",
+    "severity": "high",
+    "cvss_score": 7.2
+  },
+  "CVE-2022-30599": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-30599",
+    "notes": "phpBB SQL Injection in ACP User Management \u2014 CVSS 8.8",
+    "severity": "high",
+    "cvss_score": 8.8
+  },
+  "CVE-2022-37428": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-37428",
+    "notes": "SilverStripe Server-Side Request Forgery \u2014 CVSS 6.5",
+    "severity": "medium",
+    "cvss_score": 6.5
+  },
+  "CVE-2024-22188": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-22188",
+    "notes": "TYPO3 CMS Cross-Site Scripting in Backend \u2014 CVSS 7.2",
+    "severity": "medium",
+    "cvss_score": 7.2
+  },
+  "CVE-2022-43497": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-43497",
+    "notes": "WordPress Core Cross-Site Scripting \u2014 CVSS 5.4",
+    "severity": "medium",
+    "cvss_score": 5.4
+  },
+  "CVE-2022-31264": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-31264",
+    "notes": "DokuWiki Cross-Site Scripting \u2014 CVSS 5.4",
+    "severity": "medium",
+    "cvss_score": 5.4
+  },
+  "CVE-2023-48239": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-48239",
+    "notes": "Nextcloud Server Improper Authentication \u2014 CVSS 6.5",
+    "severity": "medium",
+    "cvss_score": 6.5
+  },
+  "CVE-2024-1817": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-1817",
+    "notes": "Ninja Forms WordPress Plugin SQL Injection \u2014 CVSS 8.5",
+    "severity": "high",
+    "cvss_score": 8.5
+  },
+  "CVE-2022-3863": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-3863",
+    "notes": "WooCommerce Orders Tracking Plugin SQL Injection \u2014 CVSS 8.5",
+    "severity": "high",
+    "cvss_score": 8.5
+  },
+  "CVE-2024-1698": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-1698",
+    "notes": "WPForms Plugin SQL Injection \u2014 CVSS 7.5",
+    "severity": "high",
+    "cvss_score": 7.5
+  },
+  "CVE-2024-27351": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-27351",
+    "notes": "Django Regular Expression Denial of Service \u2014 CVSS 7.5",
+    "severity": "high",
+    "cvss_score": 7.5
+  },
+  "CVE-2024-2847": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-2847",
+    "notes": "Elementor Plugin Stored Cross-Site Scripting \u2014 CVSS 5.4",
+    "severity": "medium",
+    "cvss_score": 5.4
+  },
+  "CVE-2023-31546": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-31546",
+    "notes": "Grav CMS Path Traversal \u2014 CVSS 7.5",
+    "severity": "high",
+    "cvss_score": 7.5
+  },
+  "CVE-2020-8860": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2020-8860",
+    "notes": "Horde Webmail Remote Code Execution \u2014 CVSS 9.8",
+    "severity": "critical",
+    "cvss_score": 9.8
+  },
+  "CVE-2023-46733": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-46733",
+    "notes": "Symfony Session Fixation \u2014 CVSS 5.3",
+    "severity": "medium",
+    "cvss_score": 5.3
+  },
+  "CVE-2021-26117": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2021-26117",
+    "notes": "Tiki Wiki CMS Groupware Cross-Site Scripting \u2014 CVSS 6.1",
+    "severity": "medium",
+    "cvss_score": 6.1
+  },
+  "CVE-2022-38652": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-38652",
+    "notes": "Tiki Wiki CMS Groupware Remote Code Execution \u2014 CVSS 9.8",
+    "severity": "critical",
+    "cvss_score": 9.8
+  },
+  "CVE-2021-32916": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2021-32916",
+    "notes": "DokuWiki Cross-Site Scripting via Media Manager \u2014 CVSS 5.4",
+    "severity": "medium",
+    "cvss_score": 5.4
+  },
+  "CVE-2024-23083": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-23083",
+    "notes": "Mattermost Authorization Bypass \u2014 CVSS 5.3",
+    "severity": "medium",
+    "cvss_score": 5.3
+  },
+  "CVE-2024-33113": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-33113",
+    "notes": "Typecho CMS Cross-Site Request Forgery \u2014 CVSS 8.8",
+    "severity": "high",
+    "cvss_score": 8.8
+  },
+  "CVE-2023-22726": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-22726",
+    "notes": "CakePHP File Upload Denial of Service \u2014 CVSS 5.3",
+    "severity": "medium",
+    "cvss_score": 5.3
+  },
+  "CVE-2024-27301": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-27301",
+    "notes": "CodeIgniter4 Improper Authentication \u2014 CVSS 5.3",
+    "severity": "medium",
+    "cvss_score": 5.3
+  },
+  "CVE-2024-41801": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-41801",
+    "notes": "Craft CMS Server-Side Template Injection \u2014 CVSS 8.8",
+    "severity": "high",
+    "cvss_score": 8.8
+  },
+  "CVE-2024-32986": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-32986",
+    "notes": "Hexo Static Site Generator Cross-Site Scripting via Markdown \u2014 CVSS 5.4",
+    "severity": "medium",
+    "cvss_score": 5.4
+  },
+  "CVE-2024-24777": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-24777",
+    "notes": "Mattermost Improper Access Control \u2014 CVSS 5.4",
+    "severity": "medium",
+    "cvss_score": 5.4
+  },
+  "CVE-2022-45150": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-45150",
+    "notes": "Moodle Cross-Site Scripting in Wiki Module \u2014 CVSS 6.1",
+    "severity": "medium",
+    "cvss_score": 6.1
+  },
+  "CVE-2023-36934": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-36934",
+    "notes": "Moodle SQL Injection in External Database \u2014 CVSS 9.8",
+    "severity": "critical",
+    "cvss_score": 9.8
+  },
+  "CVE-2023-41582": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-41582",
+    "notes": "Textpattern CMS Cross-Site Scripting \u2014 CVSS 5.4",
+    "severity": "medium",
+    "cvss_score": 5.4
+  },
+  "CVE-2024-1072": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-1072",
+    "notes": "Ultimate Member WordPress Plugin Privilege Escalation \u2014 CVSS 9.8",
+    "severity": "critical",
+    "cvss_score": 9.8
+  },
+  "CVE-2022-0778": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-0778",
+    "notes": "OpenSSL Infinite Loop in BN_mod_sqrt \u2014 CVSS 7.5",
+    "severity": "high",
+    "cvss_score": 7.5
+  },
+  "CVE-2024-4439": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-4439",
+    "notes": "WordPress Core Cross-Site Scripting via Avatar Block \u2014 CVSS 6.1",
+    "severity": "medium",
+    "cvss_score": 6.1
+  },
+  "CVE-2022-4042": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-4042",
+    "notes": "WooCommerce Product Add-ons Plugin SQL Injection \u2014 CVSS 8.5",
+    "severity": "high",
+    "cvss_score": 8.5
+  },
+  "CVE-2023-49103": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-49103",
+    "notes": "ownCloud Graph API Information Disclosure \u2014 CVSS 10.0",
+    "severity": "critical",
+    "cvss_score": 10.0
+  },
+  "CVE-2022-0824": {
+    "status": "UNVERIFIED",
+    "verified_at": null,
+    "source": "auto-generated",
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-0824",
+    "notes": "Webmin Remote Code Execution \u2014 CVSS 9.8",
+    "severity": "critical",
+    "cvss_score": 9.8
+  }
+}

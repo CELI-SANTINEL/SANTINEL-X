@@ -1,0 +1,21 @@
+{
+  "cve_id": "CVE-2014-0160",
+  "name": "OpenSSL Heartbleed",
+  "severity": "critical",
+  "cvss_score": 9.4,
+  "affected_product": "OpenSSL",
+  "affected_versions": ["1.0.1-1.0.1f"],
+  "detection": {
+    "type": "passive",
+    "method": "header_check",
+    "indicators": {
+      "headers": {
+        "Server": "OpenSSL/([0-9.]+)"
+      }
+    }
+  },
+  "description": "OpenSSL TLS heartbeat extension memory disclosure (Heartbleed).",
+  "remediation": "Update OpenSSL to 1.0.1g or later, rotate certificates",
+  "references": ["https://nvd.nist.gov/vuln/detail/CVE-2014-0160"],
+  "legal_note": "Passive detection only - no exploit payload"
+}

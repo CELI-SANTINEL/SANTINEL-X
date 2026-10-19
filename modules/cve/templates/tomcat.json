@@ -1,0 +1,21 @@
+{
+  "cve_id": "CVE-2020-1938",
+  "name": "Apache Tomcat Ghostcat AJP File Read",
+  "severity": "high",
+  "cvss_score": 9.8,
+  "affected_product": "Apache Tomcat",
+  "affected_versions": ["6.0.0-6.0.99", "7.0.0-7.0.99", "8.0.0-8.5.50", "9.0.0-9.0.30"],
+  "detection": {
+    "type": "passive",
+    "method": "version_header",
+    "indicators": {
+      "headers": {
+        "Server": "(?:Apache-Coyote|Apache Tomcat)/(\\d+(?:\\.\\d+)*)"
+      }
+    }
+  },
+  "description": "Apache Tomcat AJP protocol file inclusion (Ghostcat).",
+  "remediation": "Update to Tomcat 7.0.100, 8.5.51, 9.0.31, or later",
+  "references": ["https://nvd.nist.gov/vuln/detail/CVE-2020-1938"],
+  "legal_note": "Passive detection only - no exploit payload"
+}
